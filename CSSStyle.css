@@ -1,0 +1,19 @@
+body {
+    background-color: cadetblue;
+}
+p {
+ color: #ce2135;
+}
+section {
+    border-color: aliceblue;
+    border-radius: 12px;
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 30px;
+}
+footer{
+    font-family: "Inter Semi Bold", serif;}
+
+a{
+    text-decoration: none;
+}
